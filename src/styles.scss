@@ -1,0 +1,33 @@
+/* You can add global styles to this file, and also import other style files */
+
+
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+
+body {
+    background: rgb(255, 255, 255);
+    padding: 3em;
+    font-family: 'Open Sans', sans-serif; 
+    color: blue; 
+
+}
+ul {
+    list-style-type:none;
+    margin: 0 0 2em 0;
+    padding:0;
+
+}
+
+ul li {
+    display:inline;
+    margin-right: 30px; 
+
+}
+
+ul li a {
+    font-size: 1.5em ;
+}
+
+a {
+    color: blue; 
+}
